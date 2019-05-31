@@ -1,1 +1,7 @@
-# CP1-Story-per7
+I wake up
+I ate breakfast
+I got ready
+I went to school
+I do homework
+I get ready for bed
+I sleep
